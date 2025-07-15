@@ -31,4 +31,4 @@ This project analyzes a real-world HR dataset to uncover the main factors drivin
 ### 👩‍💻 Author
 
 Prepared by **Rawan Sotohy**
-*Under the mentorship of Dina Mohsen @ NTI*
+Under the mentorship of **Dina Mohsen** @ NTI
