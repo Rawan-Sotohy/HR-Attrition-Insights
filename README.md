@@ -1,4 +1,5 @@
-<img src="https://png.pngtree.com/thumb_back/fw800/background/20220506/pngtree-in-an-office-hr-analytics-document-name-talent-data-teamwork-photo-photo-image_30286170.jpg" width="100%" height="250" />
+<img src="https://i.gifer.com/origin/00/00b39bade24cd62da12ad886bfe11d78.gif" width="100%" height="250" />
+
 
 ## 📊 HR Attrition Analysis using SQL
 
