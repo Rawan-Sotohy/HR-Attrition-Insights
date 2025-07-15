@@ -1,8 +1,8 @@
 <img src="https://png.pngtree.com/thumb_back/fw800/background/20220506/pngtree-in-an-office-hr-analytics-document-name-talent-data-teamwork-photo-photo-image_30286170.jpg" width="100%" height="250" />
 
-## 📊 HR Attrition Analysis using SQL & Excel
+## 📊 HR Attrition Analysis using SQL
 
-This project analyzes a real-world HR dataset to uncover the main factors driving employee attrition. Through SQL queries and Excel visuals, we identify patterns in job roles, age groups, overtime, satisfaction levels, and more — helping HR teams make smarter, data-backed retention decisions.
+This project analyzes a real-world HR dataset to uncover the main factors driving employee attrition. Through SQL queries we identify patterns in job roles, age groups, overtime, satisfaction levels, and more — helping HR teams make smarter, data-backed retention decisions.
 
 ---
 
