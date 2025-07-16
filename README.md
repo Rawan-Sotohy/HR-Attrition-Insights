@@ -37,5 +37,5 @@ Using **SQL for querying**, **Python for data exploration**, and **Power BI for 
 
 ---
 
-🔗 This project was completed as part of the **Data Analysis Track** – showcasing skills in data wrangling, visualization, and business insight generation.
+🔗 This project was completed as part of the **Data Analysis Track** in Summer Training @ NTI – showcasing skills in data wrangling, visualization, and business insight generation.
 
