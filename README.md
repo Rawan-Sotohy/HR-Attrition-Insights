@@ -37,6 +37,5 @@ Using **SQL for querying**, **Python for data exploration**, and **Power BI for 
 
 ---
 
-### 👩‍💻 Author
+🔗 This project was completed as part of the **Data Analysis Track** – showcasing skills in data wrangling, visualization, and business insight generation.
 
-Prepared by **Rawan Sotohy**
